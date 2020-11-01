@@ -1,4 +1,4 @@
-package com.ruthenic.chip8emu;
+package com.ruthenic.raycasterfps;
 
 public class Main {
 
